@@ -33,6 +33,6 @@
 
 
 <p align="center">
-<a href="https://github.com/hk4crprasad"><img title="SILENCER"
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"><img title="SILENCER"
 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"></a>
 </p>
