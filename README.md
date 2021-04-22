@@ -30,7 +30,4 @@
 <a href="https://github.com/hk4crprasad/Smscrack"><img title="Smscrack" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Smscrack"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/hk4crprasad"><img title="SILENCER"
-" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"></a>
-</p>
+
