@@ -26,9 +26,9 @@
 
 <p align="center">
 <a href="https://github.com/hk4crprasad/Eraser"><img title="Eraser" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Eraser&theme=radical"></a>
-<a href="https://github.com/hk4crprasad/Secret"><img title="Secret" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Secret"></a>
-<a href="https://github.com/hk4crprasad/Melody"><img title="Melody" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Melody&theme=vision-friendly-dark"></a>
-<a href="https://github.com/hk4crprasad/Evil-sms"><img title="Smscrack" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Smscrack"></a>
+<a href="https://github.com/hk4crprasad/Secret"><img title="Secret" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Secret&theme=radical"></a>
+<a href="https://github.com/hk4crprasad/Melody"><img title="Melody" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Melody&theme=radical"></a>
+<a href="https://github.com/hk4crprasad/Evil-sms.git"><img title="Evil-sms" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Evil-sms&theme=radical"></a>
 </p>
 
 
