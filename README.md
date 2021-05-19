@@ -2,7 +2,7 @@
 ### BUILT FOR CRACK 🖤😈😈
 # SILENCER
 ## 😎 WELCOME TO THE SILENCER OF YOUR VICTIMS
-<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/haraprasadhota/KING-HACKER/blob/master/images.jpeg" alt="Bt">
+<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/hk4crprasad/ph/blob/master/hash.gif" alt="Bt">
   
 ## <p align="center"> HACKING IS NOW BACK
   
