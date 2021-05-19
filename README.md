@@ -12,7 +12,7 @@
 <p align="center"><a href="https://github.com/hk4crprasad"><img title="SILENCER" src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
 </p>
 
-<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/haraprasadhota/haraprasadhota/blob/master/20200915_191818.gif" alt="Bt">
+<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/hk4crprasad/ph/blob/master/rat.gif" alt="Bt">
 </p>
 
 <p align="center">
