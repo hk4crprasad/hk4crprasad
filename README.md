@@ -1,6 +1,6 @@
-### Hello, Friends! 
+### Hello, Friends!  <img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">
 <p align="center">
-<img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="400px">
+<img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="300px">
 </p>
 
 ### BUILT FOR CRACK <img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
