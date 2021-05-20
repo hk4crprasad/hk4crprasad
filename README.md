@@ -31,7 +31,7 @@
 <a href="https://github.com/hk4crprasad/Evil-sms.git"><img title="Evil-sms" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Evil-sms&theme=radical"></a>
 </p>
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hk4crprasad&theme=highcontrast&layout=compact" alt="hk4crprasad" /></p>
 <p align="center">
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"><img title="SILENCER"
 " src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"></a>
