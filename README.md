@@ -1,6 +1,6 @@
 ### Hello, Friends! <img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="40px">
 ### BUILT FOR CRACK <img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
-# SILENCER
+# SILENCERl
 ## <img src="https://github.com/hk4crprasad/ph/blob/master/69528895726f32fc384babcde61a535a.gif" width="80px">WELCOME TO THE SILENCER OF YOUR VICTIMS
 <p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/hk4crprasad/ph/blob/master/hash.gif" alt="Bt">
   
@@ -18,9 +18,8 @@
 <p align="center">
 <a href="https://github.com/hk4crprasad"><img title="GitHub" src="https://img.shields.io/badge/Github-SILENCER-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SILENCER-red?style=for-the-badge&logo=Youtube"></a>
-<a herf="https://gitlab.com/hk4crprasad"><img title="GitLab" src="https://img.shields.io/badge/GitLab-SILENCER-orange?style=for-the-badge&logo=gitlab"></a>
+<a href="https://gitlab.com/hk4crprasad"><img title="GitLab" src="https://img.shields.io/badge/GitLab-SILENCER-orange?style=for-the-badge&logo=gitlab"></a>
 </p>
-
 <p align="center">
 <a href="https://chat.whatsapp.com/DceoeOn5fFF3y5Fr1C8NK0"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
 <a href="https://www.instagram.com/hk4crprasad/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
