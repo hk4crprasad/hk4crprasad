@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+### <a href="https://github.com/hk4crprasad">Hello, Friends! <a href="https://github.com/hk4crprasad"><img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">
+<p align="center">
+<a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="280px">
+</p>
 
-You can use the [editor on GitHub](https://github.com/hk4crprasad/hk4crprasad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### BUILT FOR CRACK <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
+# <a href="https://github.com/hk4crprasad">SILENCER
+## <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/69528895726f32fc384babcde61a535a.gif" width="70px"> <a href="https://github.com/hk4crprasad"> WELCOME TO THE SILENCER OF YOUR VICTIMS
+<p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/hash.gif" alt="Bt">
+  
+## <p align="center"><a href="https://github.com/hk4crprasad">HACKING IS NOW BACK
+  
+<p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/Haraprasadhota/KING-HACKER/blob/master/hacker-4438137_1280.png" alt="Bt">
+</p>
+  
+<p align="center"><a href="https://github.com/hk4crprasad"><img title="SILENCER" src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=320"></a>
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/rat.gif" alt="Bt">
+</p>
 
-### Markdown
+<p align="center">
+<a href="https://github.com/hk4crprasad"><img title="GitHub" src="https://img.shields.io/badge/Github-SILENCER-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SILENCER-red?style=for-the-badge&logo=Youtube"></a>
+<a href="https://gitlab.com/hk4crprasad"><img title="GitLab" src="https://img.shields.io/badge/GitLab-SILENCER-orange?style=for-the-badge&logo=gitlab"></a>
+<a href="https://github.com/hk4crprasad"><img title="Stars" src="https://img.shields.io/github/stars/hk4crprasad"></a>
+</p>
+<p align="center">
+<a href="https://chat.whatsapp.com/DceoeOn5fFF3y5Fr1C8NK0"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://www.instagram.com/hk4crprasad/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center">
+<a href="https://github.com/hk4crprasad/Eraser"><img title="Eraser" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Eraser&theme=radical"></a>
+<a href="https://github.com/hk4crprasad/metasploit_termux"><img title="metasploit_termux" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=metasploit_termux&theme=radical"></a>
+<a href="https://github.com/hk4crprasad/termux-any-linuxinstall"><img title="termux-any-linuxinstall" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=termux-any-linuxinstall&theme=radical"></a>
+<a href="https://github.com/hk4crprasad/Evil-sms.git"><img title="Evil-sms" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Evil-sms&theme=radical"></a>
+</p>
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hk4crprasad/hk4crprasad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hk4crprasad&theme=highcontrast&layout=compact" alt="hk4crprasad" /></p>
+<p align="center">
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"><img title="SILENCER"
+" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&theme=highcontrast&layout=compact"></a>
+</p>
+<p align="center">
+<a herf="https://github.com/hk4crprasad"><img title="hk4crprasad"
+" src="https://github.com/hk4crprasad/ph/blob/master/githk.gif">
+<img src="https://github.com/hk4crprasad/ph/blob/master/vOxo92o.gif"></a>
+</p>
