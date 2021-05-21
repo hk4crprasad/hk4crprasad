@@ -23,7 +23,7 @@
 <a href="https://github.com/hk4crprasad"><img title="GitHub" src="https://img.shields.io/badge/Github-SILENCER-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg"><img title="YouTube" src="https://img.shields.io/badge/YouTube-SILENCER-red?style=for-the-badge&logo=Youtube"></a>
 <a href="https://gitlab.com/hk4crprasad"><img title="GitLab" src="https://img.shields.io/badge/GitLab-SILENCER-orange?style=for-the-badge&logo=gitlab"></a>
-<a href="https://github.com/hk4crprasad"><img title="Stars" src="img.shields.io/stars/hk4crprasad"></a>
+<a href="https://github.com/hk4crprasad"><img title="Stars" src="https://img.shields.io/stars/hk4crprasad/"></a>
 </p>
 <p align="center">
 <a href="https://chat.whatsapp.com/DceoeOn5fFF3y5Fr1C8NK0"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
