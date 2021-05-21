@@ -1,19 +1,19 @@
-### Hello, Friends!  <img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">
+### <a href="https://github.com/hk4crprasad">Hello, Friends! <a href="https://github.com/hk4crprasad"><img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">
 <p align="center">
-<img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="300px">
+<a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="280px">
 </p>
 
-### BUILT FOR CRACK <img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
-# SILENCER
-## <img src="https://github.com/hk4crprasad/ph/blob/master/69528895726f32fc384babcde61a535a.gif" width="80px">WELCOME TO THE SILENCER OF YOUR VICTIMS
-<p align="center"><a href="https://github.com/haraprasadhota"><img src="https://github.com/hk4crprasad/ph/blob/master/hash.gif" alt="Bt">
+### BUILT FOR CRACK <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
+# <a href="https://github.com/hk4crprasad">SILENCER
+## <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/69528895726f32fc384babcde61a535a.gif" width="70px"> <a href="https://github.com/hk4crprasad"> WELCOME TO THE SILENCER OF YOUR VICTIMS
+<p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/hash.gif" alt="Bt">
   
-## <p align="center"> HACKING IS NOW BACK
+## <p align="center"><a href="https://github.com/hk4crprasad">HACKING IS NOW BACK
   
 <p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/Haraprasadhota/KING-HACKER/blob/master/hacker-4438137_1280.png" alt="Bt">
 </p>
   
-<p align="center"><a href="https://github.com/hk4crprasad"><img title="SILENCER" src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"></a>
+<p align="center"><a href="https://github.com/hk4crprasad"><img title="SILENCER" src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=320"></a>
 </p>
 
 <p align="center"><a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/rat.gif" alt="Bt">
@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://github.com/hk4crprasad/Eraser"><img title="Eraser" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Eraser&theme=radical"></a>
 <a href="https://github.com/hk4crprasad/metasploit_termux"><img title="metasploit_termux" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=metasploit_termux&theme=radical"></a>
-<a href="https://github.com/hk4crprasad/termux-any-linuxinstall"><img title="termux-any-linuxinstall" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=termux-any-linuxinstall&theme=radical" width="80px"></a>
+<a href="https://github.com/hk4crprasad/termux-any-linuxinstall"><img title="termux-any-linuxinstall" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=termux-any-linuxinstall&theme=radical"></a>
 <a href="https://github.com/hk4crprasad/Evil-sms.git"><img title="Evil-sms" src="https://github-readme-stats.vercel.app/api/pin/?username=hk4crprasad&repo=Evil-sms&theme=radical"></a>
 </p>
 
