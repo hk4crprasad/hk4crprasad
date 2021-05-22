@@ -3,6 +3,8 @@
 <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/hacking.gif" width="280px">
 </p>
 
+### Go to ASCII art <a href="https://manytools.org/hacker-tools/ascii-banner/"></a>
+
 ### BUILT FOR CRACK <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
 # <a href="https://github.com/hk4crprasad">SILENCER
 ## <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/69528895726f32fc384babcde61a535a.gif" width="70px"> <a href="https://github.com/hk4crprasad"> WELCOME TO THE SILENCER OF YOUR VICTIMS
