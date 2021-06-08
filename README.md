@@ -7,7 +7,7 @@
 
 ### <a href="https://manytools.org/hacker-tools/ascii-banner/"> Go to ASCII art
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=19A3F7&lines=Hk4crprasad)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=19A3F7&lines=Hk4crprasad)](https://github.com/hk4crprasad)
 
 ### BUILT FOR CRACK <a href="https://github.com/hk4crprasad"><img src="https://github.com/hk4crprasad/ph/blob/master/4c66cc1e2788a1e6b88e55d4684d0313.gif" width="40px">
 # <a href="https://github.com/hk4crprasad">SILENCER
