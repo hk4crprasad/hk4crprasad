@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hk4crprasad</h1>
+<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">, I'm Hk4crprasad</h1>
 <h3 align="center">Just trying new skills 😅😅</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hk4crprasad&label=Profile%20views&color=0e75b6&style=flat" alt="hk4crprasad" /> </p>
