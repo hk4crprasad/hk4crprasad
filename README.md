@@ -1,36 +1,29 @@
-<p align"center"><img src="https://github.com/hk4crprasad/ph/raw/master/HK4CRPRASAD_free-file.png"></p>
-<h1 align="center">Hi <img src="https://user-images.githubusercontent.com/74892618/104591240-67b41080-5692-11eb-856d-5f9041f62681.gif" width="30px">, I'm Hk4crprasad</h1>
-<h3 align="center">Just trying new skills 😅😅</h3>
+### Hi there 👋, I am Hk4crprasad
+#### I am a simple hacker and modder 😅😅
+<p align="center"><img src="https://github.com/hk4crprasad/ph/raw/master/HK4CRPRASAD_free-file.png"></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hk4crprasad&label=Profile%20views&color=0e75b6&style=flat" alt="hk4crprasad" /> </p>
+I am very simple
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hk4crprasad" alt="hk4crprasad" /></a> </p>
+Skills: bash / java / python / html
 
-<p align="left"> <a href="https://twitter.com/hk4crprasad" target="blank"><img src="https://img.shields.io/twitter/follow/hk4crprasad?logo=twitter&style=for-the-badge" alt="hk4crprasad" /></a> </p>
+- 🔭 I’m currently working on Bgmi 90fps 
+- 🌱 I’m currently learning Java,python 
+- 📫 How to reach me: Ask in issue 
+- ⚡ Fun fact: I think i am funny. 
 
-- 🔭 I’m currently working on [Pubgm90fps](https://github.com/hk4crprasad/pubgm90fps)
 
-- 🌱 I’m currently learning **Python,Bash**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hk4crprasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/hk4crprasad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/hk4crprasad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/about-dot-me.svg' alt='about-dot-me' height='40'>](https://github.com/hk4crprasad)  
 
-- 👯 I’m looking to collaborate on [install-kali](https://github.com/strix2109/install-kali)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- 👨‍💻 All of my projects are available at [https://github.com/hk4crprasad](https://github.com/hk4crprasad)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad)](https://github.com/anuraghazra/github-readme-stats)
 
-- 📫 How to reach me **pravaskumarh@gmail.com**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&count_private=true)  
 
-- ⚡ Fun fact **I think i am funny**
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hk4crprasad)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/hk4crprasad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hk4crprasad" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UCxJo_bWRkoS-mTVvEcE-1Lg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hk4crprasad" height="30" width="40" /></a>
-</p>
+![GitHub metrics](https://metrics.lecoq.io/hk4crprasad)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.haskell.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=hk4crprasad)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hk4crprasad&show_icons=true&locale=en&layout=compact" alt="hk4crprasad" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&locale=en" alt="hk4crprasad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hk4crprasad&" alt="hk4crprasad" /></p>
+![Profile views](https://gpvc.arturio.dev/hk4crprasad)  
