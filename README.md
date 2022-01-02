@@ -4,6 +4,8 @@
 
 I am very simple
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Script&color=%232DF791&center=true&vCenter=true&lines=Hello+I+am+hk4crprasad;Nice+to+meet+you+%F0%9F%A4%97)](https://git.io/typing-svg)
+
 Skills: bash / java / python / html
 
 - 🔭 I’m currently working on Bgmi 90fps 
