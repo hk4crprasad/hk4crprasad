@@ -1,130 +1,102 @@
-@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap" rel="stylesheet");
-
-@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700");
-
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
+@import url("https://fonts.googleapis.com/css2?family=Fontdiner+Swanky&family=Roboto:wght@500&display=swap");
+* {
+  box-sizing: 0;
+  margin: 0;
+  padding: 0;
+  cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4424790/cursors-edge.png"), auto;
 }
 
-body{
-  overflow:hidden;
-  background-color: #f4f6ff;
+body {
+  background: linear-gradient(to right, white 50%, #383838 50%);
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: white;
 }
 
-.container{
-  width:100vw;
-  height:100vh;
+div {
   display: flex;
-  justify-content: center;
   align-items: center;
-  font-family: "Poppins", sans-serif;
-  position: relative;
-  left:6vmin;
+  height: 100vh;
+  max-width: 1000px;
+  width: calc(100% - 4rem);
+  margin: 0 auto;
+}
+div > * {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  max-width: 500px;
+  width: 100%;
+  padding: 2.5rem;
+}
+
+aside {
+  background-image: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4424790/right-edges.png");
+  background-position: top right;
+  background-repeat: no-repeat;
+  background-size: 25px 100%;
+}
+aside img {
+  display: block;
+  height: auto;
+  width: 100%;
+}
+
+main {
   text-align: center;
 }
-
-.cog-wheel1, .cog-wheel2{
-  transform:scale(0.7);
+main h1 {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 4rem;
+  color: #c5dc50;
+  margin-bottom: 1rem;
+}
+main p {
+  margin-bottom: 2.5rem;
+}
+main p em {
+  font-style: italic;
+  color: #c5dc50;
+}
+main button {
+  font-family: "Fontdiner Swanky", cursive;
+  font-size: 1rem;
+  color: #383838;
+  border: none;
+  background-color: #f36a6f;
+  padding: 1rem 2.5rem;
+  transform: skew(-5deg);
+  transition: all 0.1s ease;
+  cursor: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/4424790/cursors-eye.png"), auto;
+}
+main button:hover {
+  background-color: #c5dc50;
+  transform: scale(1.15);
 }
 
-.cog1, .cog2{
-  width:40vmin;
-  height:40vmin;
-  border-radius:50%;
-  border:6vmin solid #f3c623;
-  position: relative;
-}
+@media (max-width: 700px) {
+  body {
+    background: #383838;
+    font-size: 16px;
+  }
 
+  div {
+    flex-flow: column;
+  }
+  div > * {
+    max-width: 700px;
+    height: 100%;
+  }
 
-.cog2{
-  border:6vmin solid #4f8a8b;
-}
-
-.top, .down, .left, .right, .left-top, .left-down, .right-top, .right-down{
-  width:10vmin;
-  height:10vmin;
-  background-color: #f3c623;
-  position: absolute;
-}
-
-.cog2 .top,.cog2  .down,.cog2  .left,.cog2  .right,.cog2  .left-top,.cog2  .left-down,.cog2  .right-top,.cog2  .right-down{
-  background-color: #4f8a8b;
-}
-
-.top{
-  top:-14vmin;
-  left:9vmin;
-}
-
-.down{
-  bottom:-14vmin;
-  left:9vmin;
-}
-
-.left{
-  left:-14vmin;
-  top:9vmin;
-}
-
-.right{
-  right:-14vmin;
-  top:9vmin;
-}
-
-.left-top{
-  transform:rotateZ(-45deg);
-  left:-8vmin;
-  top:-8vmin;
-}
-
-.left-down{
-  transform:rotateZ(45deg);
-  left:-8vmin;
-  top:25vmin;
-}
-
-.right-top{
-  transform:rotateZ(45deg);
-  right:-8vmin;
-  top:-8vmin;
-}
-
-.right-down{
-  transform:rotateZ(-45deg);
-  right:-8vmin;
-  top:25vmin;
-}
-
-.cog2{
-  position: relative;
-  left:-10.2vmin;
-  bottom:10vmin;
-}
-
-h1{
-  color:#142833;
-}
-
-.first-four{
-  position: relative;
-  left:6vmin;
-  font-size:40vmin;
-}
-
-.second-four{
-  position: relative;
-  right:18vmin;
-  z-index: -1;
-  font-size:40vmin;
-}
-
-.wrong-para{
-  font-family: "Montserrat", sans-serif;
-  position: absolute;
-  bottom:15vmin;
-  padding:3vmin 12vmin 3vmin 3vmin;
-  font-weight:600;
-  color:#092532;
+  aside {
+    background-image: none;
+    background-color: white;
+  }
+  aside img {
+    max-width: 300px;
+  }
 }
