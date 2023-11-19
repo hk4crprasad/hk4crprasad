@@ -5,13 +5,13 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Live Piro GitHub - Super Hungama">
-  <title>Live By Haraprasad</title>
+  <title>HK4CRPRASAD - Super Hungama</title>
   <style>
     body {
       font-family: 'Arial', sans-serif;
       margin: 0;
       padding: 0;
-      background: linear-gradient(90deg, #fc7c5e, #fd975b); /* Gradient background */
+      background: linear-gradient(90deg, #fc7c5e, #fd975b, #74b9ff, #a29bfe);
       color: #fff;
     }
 
@@ -19,6 +19,7 @@
       text-align: center;
       color: #fff;
       margin-top: 40px;
+      font-size: 2em;
     }
 
     #jwplayerDiv {
@@ -41,7 +42,7 @@
       max-width: 800px;
       margin: 0 auto;
       padding: 20px;
-      background-color: rgba(255, 255, 255, 0.9); /* Semi-transparent white background */
+      background-color: rgba(255, 255, 255, 0.9);
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     }
@@ -50,33 +51,56 @@
       text-align: center;
       margin-top: 40px;
       color: #fff;
+      font-size: 1.2em;
     }
   </style>
 </head>
 
 <body>
-  <h1>Live Ck By Haraprasad Hota</h1>
+  <h1>HK4CRPRASAD - Super Live Ck</h1>
   <div class="container">
     <div id="jwplayerDiv">
       <img src="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png" alt="Super Hungama Logo">
     </div>
     <script src="https://mhdzubair.top/my.js"></script>
     <script type="text/javascript" defer>
-      jwplayer("jwplayerDiv").setup({
-        autostart: true,
-        pipIcon: "enabled",
-        title: "Super Hungama",
-        logo: {
-          file: "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
-          hide: true
-        },
-        file: "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
-        drm: {
-          clearkey: {
-            "keyId": "6a9e4204f3f8577ebf6e79b3b18573f8",
-            "key": "3deedae92d2697b3a47630995ebc1b32"
+      document.addEventListener("DOMContentLoaded", function () {
+        const playerInstance = jwplayer("jwplayerDiv");
+
+        playerInstance.setup({
+          autostart: true,
+          pipIcon: "enabled",
+          title: "Super Hungama",
+          logo: {
+            file: "https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-35365-jr3xz4uo-v5/imageContent-35365-jr3xz4uo-m6.png",
+            hide: true
+          },
+          file: "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_252/output/manifest.mpd",
+          drm: {
+            clearkey: {
+              "keyId": "6a9e4204f3f8577ebf6e79b3b18573f8",
+              "key": "3deedae92d2697b3a47630995ebc1b32"
+            }
           }
-        }
+        });
+
+        const nameElement = document.createElement('p');
+        nameElement.innerText = 'Made By Haraprasad';
+        nameElement.style.textAlign = 'center';
+        nameElement.style.color = '#000'; // Change text color
+        document.querySelector('.footer').appendChild(nameElement);
+
+        // Automatically unmute the video while playing
+        playerInstance.on('play', function () {
+          playerInstance.setMute(false);
+        });
+
+        // Enhance the volume control
+        playerInstance.on('volume', function (event) {
+          if (event.volume > 0) {
+            playerInstance.setMute(false);
+          }
+        });
       });
     </script>
   </div>
