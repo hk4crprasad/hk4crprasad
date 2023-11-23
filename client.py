@@ -24,6 +24,17 @@ import os
 import platform
 import re
 import shutil
+from rich.console import Console
+from rich.progress import track, Progress
+from rich.table import Table
+from rich.traceback import install
+from rich.syntax import Syntax
+from rich.theme import Theme
+from rich import pretty
+from rich.markdown import Markdown
+install(show_locals=True)
+pretty.install()
+console = Console()
 def read_resource(path):
     script_dir = os.path.dirname(os.path.abspath(__file__))
     file_path = os.path.join(script_dir, path)
@@ -345,11 +356,9 @@ class Client(Methods):
     async def authorize(self) -> User:
         if self.bot_token:
             return await self.sign_in_bot(self.bot_token)
-
-        print(f"Welcome to Pyrogram (version {__version__})")
-        print(f"Pyrogram is free software and comes with ABSOLUTELY NO WARRANTY. Licensed\n"
-              f"under the terms of the {__license__}.\n")
-
+            
+        console.log(f"[bold yellow]Welcome to TgPiRobot[/bold yellow] (version {VERSION})")
+       
         while True:
             try:
                 if not self.phone_number:
