@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8,16,24&height=220&section=header&text=Haraprasad%20Hota&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=%3C%20Python%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Bot%20Architect%20%2F%3E&descAlignY=60&descAlign=50&descColor=94b8ff&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Haraprasad%20Hota&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Bot%20Architect&descAlignY=60&descAlign=50&descColor=94b8ff&descSize=20"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=1000&color=818CF8&center=true&vCenter=true&width=700&lines=AI+Agent+%26+LLM+Builder+in+2026+%F0%9F%A7%A0;Telegram+%26+Discord+Bot+Architect+%F0%9F%A4%96;Python+%E2%80%94+my+language%2C+my+superpower+%F0%9F%90%8D;Shipping+from+Odisha%2C+India+%F0%9F%87%AE%F0%9F%87%B3;Open+source+%7C+Open+mind+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -146,7 +146,7 @@ print(me.fun_fact())
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hk4crprasad/hk4crprasad/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hk4crprasad/hk4crprasad/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/hk4crprasad/hk4crprasad/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="🐍 Snake animation loads after the Generate Snake Animation Action is triggered once" src="https://raw.githubusercontent.com/hk4crprasad/hk4crprasad/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
@@ -213,4 +213,4 @@ print(me.fun_fact())
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,8,16,24&height=130&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=130&section=footer"/>
