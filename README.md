@@ -24,7 +24,7 @@ class Haraprasad:
         self.name        = "Haraprasad Hota"
         self.username    = "hk4crprasad"
         self.location    = "Puri, Odisha, India 🇮🇳"
-        self.company     = ["@CYNERZA", "Tecosys"]
+        self.company     = "@CYNERZA"
         self.education   = "IMIT"
         self.role        = "Python Developer & Bot Architect"
 
@@ -157,10 +157,6 @@ print(me.fun_fact())
   &nbsp;
   <a href="https://instagram.com/hk4crprasads" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.tecosys.in/" target="_blank">
-    <img src="https://img.shields.io/badge/Tecosys-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
 
