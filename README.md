@@ -1,12 +1,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,5,30&height=210&section=header&text=Haraprasad%20Hota&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Python%20Developer%20%E2%80%A2%20Bot%20Architect%20%E2%80%A2%20AI%20Builder&descAlignY=57&descAlign=50&descColor=a9d4ff"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hey+there!+I'm+Haraprasad+%F0%9F%91%8B;Python+Developer+%26+Bot+Architect+%F0%9F%A4%96;Building+AI-powered+Telegram+%26+Discord+Bots;Open+Source+Contributor+%F0%9F%8C%9F;Turning+coffee+into+code+since+2024+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=36BCF7&center=true&vCenter=true&width=720&lines=Hey+there!+I%27m+Haraprasad+%F0%9F%91%8B;Python+Developer+%26+Bot+Architect+%F0%9F%A4%96;Building+AI-powered+Telegram+%26+Discord+Bots;Open+Source+Contributor+%F0%9F%8C%9F;Turning+coffee+into+code+since+2024+%E2%98%95;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="https://github.com/hk4crprasad">
-    <img src="https://komarev.com/ghpvc/?username=hk4crprasad&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
+  <a href="https://api.visitorbadge.io/api/visitors?user=hk4crprasad&repo=hk4crprasad&label=VISITORS&labelColor=%230d1117&countColor=%2336BCF7&style=for-the-badge">
+    <img src="https://api.visitorbadge.io/api/visitors?user=hk4crprasad&repo=hk4crprasad&label=VISITORS&labelColor=%230d1117&countColor=%2336BCF7&style=for-the-badge" />
   </a>
   &nbsp;
   <img src="https://img.shields.io/github/followers/hk4crprasad?style=for-the-badge&color=0969da&label=FOLLOWERS&logo=github&logoColor=white" />
@@ -74,9 +74,9 @@ print(me.fun_fact())
   <img src="https://skillicons.dev/icons?i=fastapi,discord&theme=dark&perline=5" />
 </a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white&style=for-the-badge" height="48"/>
+<img src="https://img.shields.io/badge/Telegram%20Bot-2CA5E0?style=flat-square&logo=telegram&logoColor=white" height="48"/>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white&style=for-the-badge" height="48"/>
+<img src="https://img.shields.io/badge/WhatsApp%20Bot-25D366?style=flat-square&logo=whatsapp&logoColor=white" height="48"/>
 
 **Cloud & DevOps**
 
@@ -97,7 +97,7 @@ print(me.fun_fact())
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hk4crprasad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hk4crprasad&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -108,17 +108,37 @@ print(me.fun_fact())
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" />
+        <img src="https://github-readme-stats.vercel.app/api?username=hk4crprasad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9&rank_icon=percentile&show=prs_merged,prs_merged_percentage" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hk4crprasad&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" />
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hk4crprasad&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b27&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=888888" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hk4crprasad&theme=tokyonight&hide_border=true&background=0d1117&stroke=1a1b27&ring=36BCF7&fire=FF6B35&currStreakLabel=36BCF7&sideLabels=36BCF7&dates=888888&border_radius=10" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hk4crprasad&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hk4crprasad&theme=tokyonight&utcOffset=5.5" />
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hk4crprasad&theme=tokyonight" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🌌 3D Contribution Galaxy
+
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -137,7 +157,7 @@ print(me.fun_fact())
 
 ## 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hk4crprasad&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hk4crprasad&theme=tokyo-night&hide_border=true&area=true&area_color=36BCF7&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&radius=16" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -191,7 +211,7 @@ print(me.fun_fact())
 <br/>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&theme=tokyonight" alt="Dev Joke" />
 </div>
 
 <br/>
