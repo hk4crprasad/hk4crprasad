@@ -23,6 +23,7 @@
 ```python
 class Haraprasad:
     def __init__(self):
+        self.website     = "hk4crprasad.site"
         self.name        = "Haraprasad Hota"
         self.username    = "hk4crprasad"
         self.location    = "Puri, Odisha, India 🇮🇳"
@@ -64,7 +65,7 @@ print(me.fun_fact())
 
 **Languages**
 
-<a href="https://skillicons.dev">
+<a href="https://hk4crprasad.site">
   <img src="https://skillicons.dev/icons?i=py,c,cpp,ts,js&theme=dark&perline=5" />
 </a>
 
@@ -72,7 +73,7 @@ print(me.fun_fact())
 
 **AI · Bots · Frameworks**
 
-<a href="https://skillicons.dev">
+<a href="https://hk4crprasad.site">
   <img src="https://skillicons.dev/icons?i=fastapi,discord&theme=dark&perline=8" />
 </a>
 &nbsp;
@@ -86,7 +87,7 @@ print(me.fun_fact())
 
 **Cloud · DevOps**
 
-<a href="https://skillicons.dev">
+<a href="https://hk4crprasad.site">
   <img src="https://skillicons.dev/icons?i=aws,azure,docker,linux,nginx&theme=dark&perline=5" />
 </a>
 
@@ -94,7 +95,7 @@ print(me.fun_fact())
 
 **Databases · Tools**
 
-<a href="https://skillicons.dev">
+<a href="https://hk4crprasad.site">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman&theme=dark&perline=6" />
 </a>
 
